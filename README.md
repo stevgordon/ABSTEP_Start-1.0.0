@@ -1,5 +1,5 @@
 # ABSTEP_Start-1.0.0
-Antigua and Barbuda Skills Training and Empowerment Programme (ABSTEP) software built by  Stevon C.J. Gordon, October 2014, for the Antigua and Barbuda Labour Department.
+This is an Antigua and Barbuda Skills Training and Empowerment Programme (ABSTEP) software built by  Stevon C.J. Gordon, October 2014, for the Antigua and Barbuda Labour Department.
 
 The four main entries used to calculate the employability index are: Educational Level(EL), Income Level(IL), Unemployment Length(UL) and Work Experience(WE). Based on a labour criteria provided by the Department, the software provides a score for each variable; then the scores are summed to give the employability index of the beneficiary.
 
